@@ -27,7 +27,7 @@ This project analyzes the share of the population unable to afford a healthy die
 The dataset used in this project is obtained from the World Bank, adapted from Herforth et al. (2022).
 
 ## Visual Representation
-![Diet Affordability Map](https://github.com/danish-abbasi-github/Geospatial-Diet-Affordability-Map/blob/main/output.png](https://github.com/danish-abbasi-github/Geospatial-Diet-Affordability-Map/blob/main/output%20plot.png)
+![Diet Affordability Map] https://github.com/danish-abbasi-github/Geospatial-Diet-Affordability-Map/blob/main/output.png](https://github.com/danish-abbasi-github/Geospatial-Diet-Affordability-Map/blob/main/output%20plot.png
 
 ## Acknowledgments
 
