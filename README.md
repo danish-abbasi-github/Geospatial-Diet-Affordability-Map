@@ -28,6 +28,7 @@ The dataset used in this project is obtained from the World Bank, adapted from H
 
 ## Visual Representation
 ![Diet Affordability Map](https://github.com/danish-abbasi-github/Geospatial-Diet-Affordability-Map/blob/main/output.png)
+
 ## Acknowledgments
 
 - Data Source: World Bank, adapted from Herforth et al. (2022)
